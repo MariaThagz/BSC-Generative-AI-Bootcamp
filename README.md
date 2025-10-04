@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🌲 Forest Adventure Game
 
 An AI-enhanced text-based adventure game built with Jac language, demonstrating Tutorial Steps 5 & 6.
@@ -28,3 +27,4 @@ source jenv/bin/activate
 
 # Install requirements
 pip install -r requirements.txt
+
