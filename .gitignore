@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+jenv/
+venv/
+env/
+
+# Environment variables - CRITICAL!
+.env
+
+# Jac compiled files
+*.jbc
+__jac_gen__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+old_game/
+*.bak
